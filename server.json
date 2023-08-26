@@ -1,0 +1,10 @@
+{
+  "server_status": "true",
+  "version": "3",
+  "update_message": "Update available",
+  "server_message": "Server connection done",
+  "link": "https://play.google.com/store/apps/details?id=xyz.illuminate.falcongfx"
+"show": "yes",
+"dTitle": "Title",
+"dMessage": "Message"
+}
